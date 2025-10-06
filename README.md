@@ -6,7 +6,7 @@ Uma empresa de telecomunicações estava perdendo clientes, mas não sabia como 
 
 Minha Abordagem:
 
-Desenvolvi um modelo de Machine Learning em Python para prever a probabilidade de churn. O processo incluiu limpeza de dados, análise exploratória e a comparação de múltiplos algoritmos. O desafio principal foi o baixo Recall do modelo inicial, que foi resolvido tratando o desbalanceamento dos dados com a técnica de `class_weight`.
+Desenvolvi um modelo de Machine Learning em Python para prever a probabilidade de churn. O processo incluiu limpeza de dados, análise exploratória e a comparação de múltiplos algoritmos. O desafio principal foi o baixo Recall do modelo inicial (apenas 57%), que foi resolvido tratando o desbalanceamento dos dados. Essa abordagem estratégica elevou o Recall para 80%...
 
 Resultados e Impacto:
 
