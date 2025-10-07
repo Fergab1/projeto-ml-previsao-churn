@@ -7,3 +7,8 @@ joblib
 jupyter
  xgboost
 imbalanced-learn
+fastapi
+uvicorn[standard]
+pydantic
+pyyaml
+shap

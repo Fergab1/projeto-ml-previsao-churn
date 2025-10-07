@@ -1,0 +1,1408 @@
+index,top1,top2,top3
+0,tenure,Contract=Two year,TotalCharges
+1,tenure,TotalCharges,InternetService=Fiber optic
+2,tenure,InternetService=No,Contract=Two year
+3,tenure,InternetService=No,TotalCharges
+4,tenure,TotalCharges,Contract=Two year
+5,tenure,TotalCharges,InternetService=Fiber optic
+6,InternetService=No,TotalCharges,MonthlyCharges
+7,tenure,InternetService=No,TotalCharges
+8,tenure,InternetService=Fiber optic,TotalCharges
+9,tenure,Contract=Two year,TotalCharges
+10,tenure,TotalCharges,InternetService=Fiber optic
+11,tenure,InternetService=No,TotalCharges
+12,tenure,InternetService=Fiber optic,TotalCharges
+13,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+14,InternetService=Fiber optic,Contract=Month-to-month,TotalCharges
+15,tenure,TotalCharges,InternetService=Fiber optic
+16,tenure,TotalCharges,InternetService=Fiber optic
+17,tenure,InternetService=Fiber optic,Contract=Month-to-month
+18,tenure,TotalCharges,InternetService=Fiber optic
+19,tenure,InternetService=No,Contract=Two year
+20,tenure,InternetService=No,Contract=Two year
+21,tenure,TotalCharges,InternetService=Fiber optic
+22,tenure,TotalCharges,InternetService=Fiber optic
+23,tenure,TotalCharges,InternetService=Fiber optic
+24,tenure,InternetService=No,TotalCharges
+25,InternetService=Fiber optic,Contract=Month-to-month,tenure
+26,tenure,InternetService=No,TotalCharges
+27,tenure,Contract=Two year,InternetService=Fiber optic
+28,tenure,InternetService=Fiber optic,Contract=Month-to-month
+29,tenure,TotalCharges,InternetService=Fiber optic
+30,tenure,InternetService=Fiber optic,Contract=Month-to-month
+31,tenure,TotalCharges,InternetService=Fiber optic
+32,tenure,InternetService=No,TotalCharges
+33,tenure,Contract=Two year,InternetService=Fiber optic
+34,tenure,TotalCharges,InternetService=Fiber optic
+35,tenure,TotalCharges,InternetService=Fiber optic
+36,InternetService=Fiber optic,Contract=Month-to-month,TotalCharges
+37,tenure,Contract=Two year,InternetService=Fiber optic
+38,tenure,InternetService=No,TotalCharges
+39,tenure,TotalCharges,InternetService=Fiber optic
+40,tenure,InternetService=Fiber optic,Contract=Month-to-month
+41,InternetService=No,tenure,Contract=Two year
+42,tenure,TotalCharges,Contract=Two year
+43,tenure,TotalCharges,InternetService=Fiber optic
+44,tenure,InternetService=No,Contract=Two year
+45,tenure,TotalCharges,InternetService=Fiber optic
+46,tenure,TotalCharges,InternetService=Fiber optic
+47,tenure,TotalCharges,InternetService=Fiber optic
+48,tenure,TotalCharges,Contract=Two year
+49,tenure,InternetService=Fiber optic,Contract=Month-to-month
+50,tenure,TotalCharges,InternetService=Fiber optic
+51,InternetService=No,MonthlyCharges,TotalCharges
+52,tenure,TotalCharges,InternetService=Fiber optic
+53,tenure,InternetService=Fiber optic,TotalCharges
+54,Contract=Two year,tenure,InternetService=Fiber optic
+55,Contract=Two year,tenure,TotalCharges
+56,tenure,TotalCharges,InternetService=Fiber optic
+57,tenure,InternetService=Fiber optic,TotalCharges
+58,tenure,InternetService=No,Contract=Two year
+59,tenure,TotalCharges,InternetService=Fiber optic
+60,Contract=Two year,TotalCharges,tenure
+61,tenure,InternetService=Fiber optic,TotalCharges
+62,tenure,InternetService=Fiber optic,Contract=Month-to-month
+63,tenure,TotalCharges,Contract=Two year
+64,InternetService=No,Contract=Two year,MonthlyCharges
+65,tenure,TotalCharges,InternetService=Fiber optic
+66,tenure,InternetService=No,MonthlyCharges
+67,InternetService=No,TotalCharges,tenure
+68,tenure,InternetService=No,Contract=Two year
+69,tenure,InternetService=Fiber optic,Contract=Month-to-month
+70,tenure,InternetService=No,Contract=Two year
+71,tenure,TotalCharges,InternetService=Fiber optic
+72,tenure,Contract=Two year,InternetService=Fiber optic
+73,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+74,tenure,InternetService=No,Contract=Two year
+75,InternetService=Fiber optic,tenure,Contract=Month-to-month
+76,tenure,InternetService=Fiber optic,TotalCharges
+77,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+78,tenure,TotalCharges,Contract=Two year
+79,tenure,InternetService=Fiber optic,Contract=Month-to-month
+80,InternetService=No,TotalCharges,Contract=Two year
+81,InternetService=No,TotalCharges,MonthlyCharges
+82,Contract=Two year,InternetService=Fiber optic,Contract=Month-to-month
+83,InternetService=Fiber optic,tenure,Contract=Month-to-month
+84,tenure,InternetService=Fiber optic,Contract=Month-to-month
+85,tenure,InternetService=No,Contract=Two year
+86,InternetService=Fiber optic,tenure,Contract=Month-to-month
+87,tenure,TotalCharges,InternetService=Fiber optic
+88,tenure,TotalCharges,InternetService=Fiber optic
+89,InternetService=Fiber optic,Contract=Month-to-month,tenure
+90,tenure,InternetService=Fiber optic,Contract=Month-to-month
+91,tenure,InternetService=Fiber optic,TotalCharges
+92,InternetService=No,tenure,TotalCharges
+93,tenure,TotalCharges,InternetService=Fiber optic
+94,tenure,Contract=Two year,TotalCharges
+95,tenure,TotalCharges,Contract=Two year
+96,tenure,Contract=Two year,TotalCharges
+97,tenure,InternetService=Fiber optic,TotalCharges
+98,tenure,TotalCharges,InternetService=Fiber optic
+99,tenure,TotalCharges,Contract=Two year
+100,tenure,TotalCharges,InternetService=Fiber optic
+101,tenure,TotalCharges,InternetService=Fiber optic
+102,InternetService=Fiber optic,TotalCharges,tenure
+103,tenure,TotalCharges,InternetService=Fiber optic
+104,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+105,tenure,TotalCharges,InternetService=Fiber optic
+106,tenure,InternetService=Fiber optic,Contract=Month-to-month
+107,tenure,TotalCharges,InternetService=Fiber optic
+108,tenure,InternetService=Fiber optic,TotalCharges
+109,TotalCharges,tenure,InternetService=Fiber optic
+110,tenure,InternetService=No,TotalCharges
+111,tenure,InternetService=Fiber optic,Contract=Month-to-month
+112,InternetService=No,tenure,Contract=Two year
+113,tenure,TotalCharges,Contract=Two year
+114,Contract=Two year,tenure,TotalCharges
+115,tenure,TotalCharges,InternetService=Fiber optic
+116,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+117,tenure,InternetService=No,Contract=Two year
+118,tenure,TotalCharges,Contract=Two year
+119,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+120,InternetService=No,MonthlyCharges,TotalCharges
+121,tenure,InternetService=No,TotalCharges
+122,tenure,TotalCharges,Contract=Two year
+123,tenure,TotalCharges,InternetService=Fiber optic
+124,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+125,tenure,InternetService=No,TotalCharges
+126,tenure,TotalCharges,InternetService=Fiber optic
+127,tenure,TotalCharges,Contract=Two year
+128,tenure,Contract=Two year,InternetService=Fiber optic
+129,InternetService=Fiber optic,tenure,Contract=Month-to-month
+130,InternetService=No,Contract=Two year,TotalCharges
+131,tenure,TotalCharges,MonthlyCharges
+132,tenure,TotalCharges,Contract=Two year
+133,tenure,TotalCharges,InternetService=Fiber optic
+134,tenure,TotalCharges,Contract=Two year
+135,tenure,InternetService=No,TotalCharges
+136,tenure,TotalCharges,InternetService=Fiber optic
+137,tenure,TotalCharges,InternetService=Fiber optic
+138,tenure,InternetService=Fiber optic,TotalCharges
+139,tenure,InternetService=No,TotalCharges
+140,tenure,InternetService=No,Contract=Two year
+141,tenure,TotalCharges,Contract=Two year
+142,tenure,InternetService=Fiber optic,Contract=Month-to-month
+143,tenure,Contract=Two year,InternetService=Fiber optic
+144,tenure,TotalCharges,InternetService=Fiber optic
+145,tenure,TotalCharges,InternetService=Fiber optic
+146,tenure,Contract=Two year,TotalCharges
+147,tenure,InternetService=Fiber optic,TotalCharges
+148,tenure,InternetService=No,Contract=Two year
+149,tenure,InternetService=Fiber optic,Contract=Month-to-month
+150,tenure,Contract=Two year,InternetService=Fiber optic
+151,tenure,TotalCharges,InternetService=Fiber optic
+152,InternetService=Fiber optic,TotalCharges,MonthlyCharges
+153,tenure,InternetService=Fiber optic,Contract=Month-to-month
+154,tenure,InternetService=Fiber optic,TotalCharges
+155,InternetService=Fiber optic,Contract=Month-to-month,tenure
+156,InternetService=Fiber optic,tenure,Contract=Month-to-month
+157,tenure,TotalCharges,Contract=Two year
+158,InternetService=No,tenure,TotalCharges
+159,tenure,InternetService=No,TotalCharges
+160,tenure,TotalCharges,InternetService=Fiber optic
+161,tenure,Contract=Two year,TotalCharges
+162,tenure,InternetService=Fiber optic,Contract=Month-to-month
+163,tenure,TotalCharges,InternetService=Fiber optic
+164,tenure,TotalCharges,Contract=Two year
+165,TotalCharges,MonthlyCharges,InternetService=Fiber optic
+166,InternetService=Fiber optic,Contract=Month-to-month,tenure
+167,InternetService=No,tenure,Contract=Two year
+168,tenure,TotalCharges,InternetService=Fiber optic
+169,InternetService=Fiber optic,Contract=Month-to-month,TotalCharges
+170,tenure,TotalCharges,InternetService=Fiber optic
+171,tenure,InternetService=Fiber optic,TotalCharges
+172,tenure,InternetService=Fiber optic,TotalCharges
+173,tenure,InternetService=Fiber optic,Contract=Month-to-month
+174,tenure,InternetService=Fiber optic,TotalCharges
+175,tenure,TotalCharges,InternetService=Fiber optic
+176,tenure,InternetService=Fiber optic,Contract=Month-to-month
+177,tenure,TotalCharges,InternetService=Fiber optic
+178,tenure,InternetService=No,TotalCharges
+179,tenure,Contract=Two year,InternetService=Fiber optic
+180,InternetService=No,Contract=Two year,tenure
+181,InternetService=Fiber optic,MonthlyCharges,TotalCharges
+182,InternetService=Fiber optic,tenure,Contract=Month-to-month
+183,tenure,TotalCharges,InternetService=Fiber optic
+184,tenure,InternetService=No,Contract=Two year
+185,tenure,TotalCharges,InternetService=Fiber optic
+186,tenure,TotalCharges,InternetService=Fiber optic
+187,tenure,InternetService=No,Contract=Two year
+188,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+189,tenure,InternetService=Fiber optic,Contract=Month-to-month
+190,tenure,InternetService=No,TotalCharges
+191,tenure,TotalCharges,Contract=Two year
+192,InternetService=No,MonthlyCharges,TotalCharges
+193,tenure,TotalCharges,InternetService=Fiber optic
+194,tenure,InternetService=Fiber optic,TotalCharges
+195,tenure,TotalCharges,InternetService=Fiber optic
+196,tenure,TotalCharges,Contract=Two year
+197,tenure,InternetService=Fiber optic,Contract=Month-to-month
+198,InternetService=No,MonthlyCharges,TotalCharges
+199,tenure,TotalCharges,InternetService=Fiber optic
+200,InternetService=No,Contract=Two year,MonthlyCharges
+201,tenure,TotalCharges,InternetService=Fiber optic
+202,InternetService=No,tenure,TotalCharges
+203,tenure,TotalCharges,InternetService=Fiber optic
+204,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+205,tenure,TotalCharges,InternetService=Fiber optic
+206,tenure,InternetService=Fiber optic,Contract=Month-to-month
+207,tenure,TotalCharges,InternetService=Fiber optic
+208,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+209,tenure,InternetService=Fiber optic,TotalCharges
+210,tenure,InternetService=Fiber optic,Contract=Month-to-month
+211,tenure,TotalCharges,InternetService=Fiber optic
+212,tenure,TotalCharges,InternetService=Fiber optic
+213,tenure,InternetService=Fiber optic,Contract=Month-to-month
+214,tenure,TotalCharges,InternetService=Fiber optic
+215,tenure,TotalCharges,InternetService=Fiber optic
+216,InternetService=Fiber optic,Contract=Month-to-month,tenure
+217,tenure,TotalCharges,InternetService=Fiber optic
+218,TotalCharges,InternetService=Fiber optic,MonthlyCharges
+219,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+220,tenure,TotalCharges,InternetService=Fiber optic
+221,tenure,TotalCharges,InternetService=Fiber optic
+222,tenure,TotalCharges,InternetService=Fiber optic
+223,tenure,TotalCharges,InternetService=Fiber optic
+224,tenure,InternetService=Fiber optic,Contract=Month-to-month
+225,tenure,TotalCharges,InternetService=Fiber optic
+226,tenure,InternetService=Fiber optic,TotalCharges
+227,tenure,TotalCharges,InternetService=Fiber optic
+228,tenure,TotalCharges,InternetService=Fiber optic
+229,tenure,InternetService=No,TotalCharges
+230,tenure,InternetService=No,TotalCharges
+231,tenure,InternetService=Fiber optic,Contract=Month-to-month
+232,tenure,Contract=Two year,InternetService=Fiber optic
+233,tenure,TotalCharges,InternetService=Fiber optic
+234,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+235,tenure,TotalCharges,Contract=Two year
+236,tenure,TotalCharges,Contract=Two year
+237,tenure,TotalCharges,Contract=Two year
+238,tenure,Contract=Two year,InternetService=Fiber optic
+239,InternetService=No,tenure,Contract=Two year
+240,tenure,Contract=Two year,InternetService=Fiber optic
+241,tenure,InternetService=No,TotalCharges
+242,tenure,TotalCharges,InternetService=Fiber optic
+243,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+244,tenure,Contract=Two year,InternetService=Fiber optic
+245,tenure,TotalCharges,Contract=Two year
+246,tenure,InternetService=No,Contract=Two year
+247,tenure,TotalCharges,InternetService=Fiber optic
+248,tenure,TotalCharges,InternetService=Fiber optic
+249,tenure,InternetService=Fiber optic,TotalCharges
+250,InternetService=No,TotalCharges,MonthlyCharges
+251,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+252,InternetService=Fiber optic,tenure,Contract=Month-to-month
+253,tenure,TotalCharges,Contract=Two year
+254,InternetService=No,tenure,TotalCharges
+255,tenure,InternetService=Fiber optic,TotalCharges
+256,tenure,Contract=Two year,TotalCharges
+257,InternetService=Fiber optic,Contract=Month-to-month,tenure
+258,tenure,TotalCharges,InternetService=Fiber optic
+259,tenure,InternetService=Fiber optic,MonthlyCharges
+260,tenure,InternetService=No,Contract=Two year
+261,tenure,TotalCharges,InternetService=Fiber optic
+262,tenure,TotalCharges,InternetService=Fiber optic
+263,tenure,TotalCharges,InternetService=Fiber optic
+264,InternetService=No,MonthlyCharges,tenure
+265,tenure,TotalCharges,InternetService=Fiber optic
+266,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+267,tenure,TotalCharges,Contract=Two year
+268,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+269,tenure,InternetService=Fiber optic,Contract=Month-to-month
+270,tenure,TotalCharges,InternetService=Fiber optic
+271,InternetService=Fiber optic,tenure,MonthlyCharges
+272,tenure,Contract=Two year,InternetService=Fiber optic
+273,tenure,InternetService=Fiber optic,TotalCharges
+274,tenure,InternetService=No,TotalCharges
+275,tenure,TotalCharges,InternetService=Fiber optic
+276,tenure,InternetService=Fiber optic,TotalCharges
+277,tenure,TotalCharges,Contract=Two year
+278,tenure,Contract=Two year,TotalCharges
+279,tenure,InternetService=Fiber optic,TotalCharges
+280,tenure,InternetService=Fiber optic,Contract=Month-to-month
+281,tenure,InternetService=Fiber optic,Contract=Month-to-month
+282,tenure,TotalCharges,Contract=Two year
+283,tenure,InternetService=Fiber optic,MonthlyCharges
+284,tenure,TotalCharges,InternetService=Fiber optic
+285,InternetService=No,tenure,TotalCharges
+286,tenure,InternetService=Fiber optic,Contract=Month-to-month
+287,tenure,InternetService=No,TotalCharges
+288,tenure,TotalCharges,Contract=Two year
+289,InternetService=Fiber optic,TotalCharges,tenure
+290,tenure,TotalCharges,InternetService=Fiber optic
+291,tenure,TotalCharges,Contract=Two year
+292,tenure,InternetService=No,TotalCharges
+293,tenure,TotalCharges,Contract=Two year
+294,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+295,tenure,TotalCharges,InternetService=Fiber optic
+296,tenure,TotalCharges,InternetService=Fiber optic
+297,tenure,TotalCharges,InternetService=Fiber optic
+298,tenure,TotalCharges,Contract=Two year
+299,tenure,InternetService=No,TotalCharges
+300,tenure,InternetService=Fiber optic,Contract=Month-to-month
+301,tenure,TotalCharges,InternetService=Fiber optic
+302,tenure,InternetService=No,MonthlyCharges
+303,tenure,TotalCharges,Contract=Two year
+304,tenure,TotalCharges,InternetService=Fiber optic
+305,tenure,TotalCharges,InternetService=Fiber optic
+306,tenure,TotalCharges,Contract=Two year
+307,tenure,TotalCharges,InternetService=Fiber optic
+308,tenure,TotalCharges,Contract=Two year
+309,tenure,Contract=Two year,TotalCharges
+310,tenure,InternetService=Fiber optic,TotalCharges
+311,tenure,TotalCharges,InternetService=Fiber optic
+312,tenure,TotalCharges,InternetService=Fiber optic
+313,InternetService=No,Contract=Two year,MonthlyCharges
+314,tenure,InternetService=No,Contract=Two year
+315,InternetService=Fiber optic,Contract=Month-to-month,tenure
+316,InternetService=Fiber optic,tenure,Contract=Month-to-month
+317,InternetService=Fiber optic,tenure,Contract=Month-to-month
+318,tenure,TotalCharges,InternetService=Fiber optic
+319,tenure,TotalCharges,Contract=Two year
+320,InternetService=No,tenure,MonthlyCharges
+321,tenure,InternetService=No,TotalCharges
+322,tenure,TotalCharges,InternetService=Fiber optic
+323,tenure,TotalCharges,InternetService=Fiber optic
+324,tenure,TotalCharges,InternetService=Fiber optic
+325,tenure,TotalCharges,InternetService=Fiber optic
+326,tenure,TotalCharges,Contract=Two year
+327,tenure,TotalCharges,Contract=Two year
+328,tenure,TotalCharges,Contract=Two year
+329,tenure,InternetService=Fiber optic,TotalCharges
+330,tenure,TotalCharges,InternetService=Fiber optic
+331,InternetService=Fiber optic,tenure,Contract=Month-to-month
+332,tenure,TotalCharges,Contract=Two year
+333,tenure,TotalCharges,InternetService=Fiber optic
+334,tenure,TotalCharges,InternetService=Fiber optic
+335,tenure,TotalCharges,InternetService=Fiber optic
+336,InternetService=No,tenure,Contract=Two year
+337,tenure,TotalCharges,Contract=Two year
+338,tenure,TotalCharges,Contract=Two year
+339,tenure,TotalCharges,InternetService=Fiber optic
+340,tenure,InternetService=Fiber optic,TotalCharges
+341,tenure,InternetService=Fiber optic,TotalCharges
+342,InternetService=Fiber optic,Contract=Month-to-month,tenure
+343,InternetService=Fiber optic,TotalCharges,tenure
+344,tenure,TotalCharges,InternetService=Fiber optic
+345,tenure,InternetService=Fiber optic,TotalCharges
+346,tenure,InternetService=Fiber optic,Contract=Month-to-month
+347,InternetService=Fiber optic,Contract=Month-to-month,PhoneService=Yes
+348,InternetService=No,tenure,Contract=Two year
+349,tenure,TotalCharges,InternetService=Fiber optic
+350,tenure,TotalCharges,InternetService=Fiber optic
+351,tenure,TotalCharges,Contract=Two year
+352,InternetService=No,Contract=Two year,MonthlyCharges
+353,tenure,TotalCharges,InternetService=Fiber optic
+354,tenure,TotalCharges,InternetService=Fiber optic
+355,tenure,TotalCharges,Contract=Two year
+356,tenure,TotalCharges,InternetService=Fiber optic
+357,tenure,TotalCharges,InternetService=Fiber optic
+358,InternetService=No,TotalCharges,MonthlyCharges
+359,InternetService=No,Contract=Two year,MonthlyCharges
+360,tenure,TotalCharges,InternetService=Fiber optic
+361,tenure,TotalCharges,InternetService=Fiber optic
+362,tenure,TotalCharges,InternetService=Fiber optic
+363,tenure,TotalCharges,InternetService=Fiber optic
+364,InternetService=Fiber optic,tenure,MonthlyCharges
+365,tenure,InternetService=Fiber optic,Contract=Month-to-month
+366,tenure,InternetService=No,TotalCharges
+367,tenure,Contract=Two year,InternetService=Fiber optic
+368,tenure,TotalCharges,InternetService=Fiber optic
+369,tenure,TotalCharges,InternetService=Fiber optic
+370,InternetService=Fiber optic,Contract=Month-to-month,tenure
+371,tenure,InternetService=No,TotalCharges
+372,tenure,Contract=Two year,InternetService=Fiber optic
+373,tenure,TotalCharges,InternetService=Fiber optic
+374,tenure,TotalCharges,InternetService=Fiber optic
+375,tenure,TotalCharges,Contract=Two year
+376,tenure,InternetService=Fiber optic,MonthlyCharges
+377,tenure,Contract=Two year,InternetService=Fiber optic
+378,tenure,TotalCharges,InternetService=Fiber optic
+379,InternetService=Fiber optic,tenure,Contract=Month-to-month
+380,tenure,TotalCharges,InternetService=Fiber optic
+381,tenure,InternetService=Fiber optic,Contract=Month-to-month
+382,tenure,TotalCharges,Contract=Two year
+383,tenure,TotalCharges,InternetService=Fiber optic
+384,tenure,InternetService=Fiber optic,Contract=Month-to-month
+385,tenure,InternetService=Fiber optic,TotalCharges
+386,tenure,InternetService=Fiber optic,TotalCharges
+387,tenure,InternetService=No,TotalCharges
+388,tenure,TotalCharges,InternetService=Fiber optic
+389,tenure,TotalCharges,Contract=Two year
+390,tenure,TotalCharges,MonthlyCharges
+391,tenure,InternetService=Fiber optic,TotalCharges
+392,tenure,InternetService=No,TotalCharges
+393,tenure,TotalCharges,InternetService=Fiber optic
+394,tenure,InternetService=Fiber optic,TotalCharges
+395,tenure,InternetService=Fiber optic,Contract=Month-to-month
+396,tenure,TotalCharges,InternetService=Fiber optic
+397,tenure,TotalCharges,InternetService=Fiber optic
+398,tenure,InternetService=Fiber optic,Contract=Month-to-month
+399,tenure,Contract=Two year,InternetService=Fiber optic
+400,tenure,InternetService=No,Contract=Two year
+401,tenure,TotalCharges,InternetService=Fiber optic
+402,tenure,TotalCharges,InternetService=Fiber optic
+403,tenure,TotalCharges,InternetService=Fiber optic
+404,InternetService=Fiber optic,tenure,Contract=Month-to-month
+405,tenure,InternetService=Fiber optic,TotalCharges
+406,tenure,TotalCharges,InternetService=Fiber optic
+407,tenure,InternetService=Fiber optic,TotalCharges
+408,tenure,Contract=Two year,InternetService=Fiber optic
+409,tenure,TotalCharges,InternetService=Fiber optic
+410,tenure,InternetService=No,TotalCharges
+411,tenure,InternetService=Fiber optic,TotalCharges
+412,InternetService=Fiber optic,tenure,Contract=Month-to-month
+413,tenure,InternetService=Fiber optic,TotalCharges
+414,tenure,TotalCharges,InternetService=Fiber optic
+415,tenure,TotalCharges,InternetService=Fiber optic
+416,tenure,InternetService=No,TotalCharges
+417,tenure,TotalCharges,InternetService=Fiber optic
+418,tenure,TotalCharges,InternetService=Fiber optic
+419,InternetService=Fiber optic,Contract=Month-to-month,tenure
+420,tenure,InternetService=Fiber optic,Contract=Month-to-month
+421,tenure,InternetService=Fiber optic,MonthlyCharges
+422,tenure,InternetService=Fiber optic,Contract=Month-to-month
+423,tenure,TotalCharges,InternetService=Fiber optic
+424,InternetService=No,tenure,MonthlyCharges
+425,tenure,InternetService=No,MonthlyCharges
+426,InternetService=No,MonthlyCharges,TotalCharges
+427,tenure,InternetService=No,TotalCharges
+428,tenure,InternetService=Fiber optic,TotalCharges
+429,tenure,InternetService=No,Contract=Two year
+430,tenure,InternetService=Fiber optic,Contract=Month-to-month
+431,InternetService=No,tenure,TotalCharges
+432,TotalCharges,InternetService=Fiber optic,MonthlyCharges
+433,tenure,TotalCharges,InternetService=Fiber optic
+434,tenure,TotalCharges,InternetService=Fiber optic
+435,InternetService=Fiber optic,tenure,Contract=Month-to-month
+436,tenure,TotalCharges,InternetService=Fiber optic
+437,tenure,TotalCharges,InternetService=Fiber optic
+438,InternetService=Fiber optic,tenure,Contract=Month-to-month
+439,tenure,TotalCharges,InternetService=Fiber optic
+440,tenure,InternetService=Fiber optic,TotalCharges
+441,InternetService=No,Contract=Two year,MonthlyCharges
+442,tenure,TotalCharges,InternetService=Fiber optic
+443,InternetService=No,tenure,MonthlyCharges
+444,tenure,InternetService=No,TotalCharges
+445,tenure,TotalCharges,InternetService=Fiber optic
+446,tenure,TotalCharges,InternetService=Fiber optic
+447,tenure,Contract=Two year,InternetService=Fiber optic
+448,InternetService=No,Contract=Two year,MonthlyCharges
+449,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+450,tenure,TotalCharges,InternetService=Fiber optic
+451,tenure,TotalCharges,Contract=Two year
+452,tenure,TotalCharges,InternetService=Fiber optic
+453,InternetService=No,Contract=Two year,TotalCharges
+454,tenure,TotalCharges,InternetService=Fiber optic
+455,tenure,InternetService=Fiber optic,Contract=Month-to-month
+456,tenure,TotalCharges,InternetService=Fiber optic
+457,tenure,TotalCharges,InternetService=Fiber optic
+458,tenure,TotalCharges,InternetService=Fiber optic
+459,tenure,InternetService=Fiber optic,Contract=Month-to-month
+460,tenure,InternetService=No,Contract=Two year
+461,InternetService=No,tenure,TotalCharges
+462,tenure,InternetService=No,Contract=Two year
+463,tenure,TotalCharges,Contract=Two year
+464,tenure,TotalCharges,InternetService=Fiber optic
+465,InternetService=Fiber optic,TotalCharges,tenure
+466,tenure,TotalCharges,InternetService=Fiber optic
+467,InternetService=Fiber optic,tenure,MonthlyCharges
+468,tenure,TotalCharges,InternetService=Fiber optic
+469,tenure,TotalCharges,InternetService=Fiber optic
+470,tenure,InternetService=No,TotalCharges
+471,tenure,InternetService=Fiber optic,Contract=Month-to-month
+472,InternetService=Fiber optic,Contract=Month-to-month,tenure
+473,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+474,InternetService=Fiber optic,tenure,Contract=Month-to-month
+475,tenure,TotalCharges,InternetService=Fiber optic
+476,tenure,Contract=Two year,InternetService=Fiber optic
+477,tenure,Contract=Two year,InternetService=Fiber optic
+478,tenure,InternetService=No,TotalCharges
+479,tenure,TotalCharges,InternetService=Fiber optic
+480,tenure,InternetService=No,TotalCharges
+481,tenure,InternetService=No,TotalCharges
+482,tenure,InternetService=Fiber optic,Contract=Month-to-month
+483,InternetService=No,tenure,Contract=Two year
+484,Contract=Two year,tenure,InternetService=Fiber optic
+485,tenure,InternetService=Fiber optic,Contract=Month-to-month
+486,tenure,InternetService=No,Contract=Two year
+487,tenure,InternetService=No,TotalCharges
+488,tenure,TotalCharges,InternetService=Fiber optic
+489,TotalCharges,tenure,InternetService=Fiber optic
+490,tenure,TotalCharges,InternetService=Fiber optic
+491,tenure,TotalCharges,InternetService=Fiber optic
+492,InternetService=Fiber optic,Contract=Month-to-month,TotalCharges
+493,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+494,tenure,InternetService=No,Contract=Two year
+495,tenure,TotalCharges,InternetService=Fiber optic
+496,InternetService=No,MonthlyCharges,TotalCharges
+497,tenure,TotalCharges,InternetService=Fiber optic
+498,tenure,TotalCharges,InternetService=Fiber optic
+499,tenure,InternetService=No,TotalCharges
+500,tenure,InternetService=No,TotalCharges
+501,InternetService=No,tenure,MonthlyCharges
+502,tenure,TotalCharges,InternetService=Fiber optic
+503,tenure,TotalCharges,InternetService=Fiber optic
+504,InternetService=Fiber optic,tenure,Contract=Month-to-month
+505,InternetService=Fiber optic,tenure,Contract=Month-to-month
+506,InternetService=No,tenure,TotalCharges
+507,tenure,InternetService=Fiber optic,TotalCharges
+508,tenure,InternetService=No,TotalCharges
+509,tenure,InternetService=No,TotalCharges
+510,tenure,TotalCharges,InternetService=Fiber optic
+511,InternetService=Fiber optic,tenure,Contract=Month-to-month
+512,tenure,Contract=Two year,InternetService=Fiber optic
+513,tenure,TotalCharges,Contract=Two year
+514,InternetService=No,TotalCharges,MonthlyCharges
+515,tenure,TotalCharges,InternetService=Fiber optic
+516,tenure,TotalCharges,InternetService=Fiber optic
+517,tenure,InternetService=No,Contract=Two year
+518,tenure,InternetService=No,TotalCharges
+519,tenure,TotalCharges,InternetService=Fiber optic
+520,tenure,TotalCharges,InternetService=Fiber optic
+521,tenure,TotalCharges,Contract=Two year
+522,tenure,InternetService=Fiber optic,Contract=Month-to-month
+523,Contract=Two year,InternetService=Fiber optic,Contract=Month-to-month
+524,tenure,TotalCharges,InternetService=Fiber optic
+525,InternetService=No,tenure,TotalCharges
+526,tenure,InternetService=Fiber optic,TotalCharges
+527,tenure,InternetService=Fiber optic,TotalCharges
+528,InternetService=No,TotalCharges,MonthlyCharges
+529,tenure,InternetService=Fiber optic,Contract=Month-to-month
+530,tenure,TotalCharges,InternetService=Fiber optic
+531,tenure,InternetService=No,TotalCharges
+532,tenure,InternetService=No,TotalCharges
+533,tenure,TotalCharges,Contract=Two year
+534,InternetService=Fiber optic,tenure,Contract=Month-to-month
+535,tenure,InternetService=Fiber optic,TotalCharges
+536,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+537,tenure,InternetService=No,Contract=Two year
+538,tenure,TotalCharges,InternetService=Fiber optic
+539,InternetService=Fiber optic,tenure,Contract=Month-to-month
+540,tenure,InternetService=No,TotalCharges
+541,tenure,TotalCharges,InternetService=Fiber optic
+542,tenure,Contract=Two year,InternetService=Fiber optic
+543,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+544,TotalCharges,InternetService=Fiber optic,MonthlyCharges
+545,tenure,InternetService=Fiber optic,Contract=Month-to-month
+546,InternetService=Fiber optic,tenure,Contract=Month-to-month
+547,tenure,TotalCharges,MonthlyCharges
+548,tenure,TotalCharges,Contract=Two year
+549,tenure,TotalCharges,InternetService=Fiber optic
+550,tenure,InternetService=Fiber optic,MonthlyCharges
+551,tenure,InternetService=Fiber optic,TotalCharges
+552,tenure,TotalCharges,InternetService=Fiber optic
+553,tenure,TotalCharges,InternetService=Fiber optic
+554,tenure,InternetService=Fiber optic,TotalCharges
+555,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+556,tenure,InternetService=No,TotalCharges
+557,InternetService=No,Contract=Two year,TotalCharges
+558,tenure,InternetService=Fiber optic,TotalCharges
+559,tenure,TotalCharges,InternetService=Fiber optic
+560,tenure,InternetService=No,TotalCharges
+561,tenure,InternetService=No,Contract=Two year
+562,tenure,InternetService=Fiber optic,Contract=Month-to-month
+563,tenure,Contract=Two year,InternetService=Fiber optic
+564,tenure,TotalCharges,Contract=Two year
+565,tenure,TotalCharges,Contract=Two year
+566,tenure,InternetService=Fiber optic,TotalCharges
+567,tenure,TotalCharges,InternetService=Fiber optic
+568,tenure,InternetService=No,TotalCharges
+569,tenure,TotalCharges,MonthlyCharges
+570,tenure,InternetService=Fiber optic,TotalCharges
+571,InternetService=Fiber optic,Contract=Month-to-month,tenure
+572,tenure,InternetService=No,Contract=Two year
+573,tenure,TotalCharges,InternetService=Fiber optic
+574,tenure,TotalCharges,InternetService=Fiber optic
+575,tenure,TotalCharges,InternetService=Fiber optic
+576,tenure,TotalCharges,MonthlyCharges
+577,tenure,InternetService=No,TotalCharges
+578,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+579,tenure,TotalCharges,InternetService=Fiber optic
+580,tenure,Contract=Two year,TotalCharges
+581,tenure,InternetService=Fiber optic,Contract=Month-to-month
+582,tenure,TotalCharges,Contract=Two year
+583,InternetService=Fiber optic,Contract=Month-to-month,tenure
+584,tenure,InternetService=No,TotalCharges
+585,InternetService=Fiber optic,TotalCharges,MonthlyCharges
+586,tenure,InternetService=Fiber optic,TotalCharges
+587,tenure,TotalCharges,InternetService=Fiber optic
+588,tenure,TotalCharges,InternetService=Fiber optic
+589,InternetService=Fiber optic,Contract=Month-to-month,tenure
+590,tenure,TotalCharges,InternetService=Fiber optic
+591,tenure,InternetService=Fiber optic,TotalCharges
+592,tenure,Contract=Two year,InternetService=Fiber optic
+593,tenure,TotalCharges,InternetService=Fiber optic
+594,tenure,TotalCharges,InternetService=Fiber optic
+595,tenure,InternetService=Fiber optic,Contract=Month-to-month
+596,tenure,TotalCharges,InternetService=Fiber optic
+597,tenure,InternetService=Fiber optic,TotalCharges
+598,tenure,InternetService=No,Contract=Two year
+599,InternetService=Fiber optic,TotalCharges,MonthlyCharges
+600,tenure,InternetService=No,TotalCharges
+601,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+602,tenure,TotalCharges,InternetService=Fiber optic
+603,tenure,TotalCharges,InternetService=Fiber optic
+604,InternetService=No,tenure,TotalCharges
+605,tenure,TotalCharges,InternetService=Fiber optic
+606,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+607,InternetService=No,tenure,MonthlyCharges
+608,tenure,InternetService=Fiber optic,TotalCharges
+609,tenure,TotalCharges,InternetService=Fiber optic
+610,tenure,TotalCharges,InternetService=Fiber optic
+611,tenure,TotalCharges,InternetService=Fiber optic
+612,InternetService=Fiber optic,tenure,Contract=Month-to-month
+613,tenure,InternetService=Fiber optic,Contract=Month-to-month
+614,tenure,InternetService=Fiber optic,TotalCharges
+615,tenure,TotalCharges,InternetService=Fiber optic
+616,tenure,TotalCharges,InternetService=Fiber optic
+617,tenure,TotalCharges,InternetService=Fiber optic
+618,tenure,Contract=Two year,InternetService=Fiber optic
+619,tenure,TotalCharges,InternetService=Fiber optic
+620,tenure,InternetService=Fiber optic,MonthlyCharges
+621,tenure,InternetService=Fiber optic,TotalCharges
+622,tenure,TotalCharges,InternetService=Fiber optic
+623,tenure,TotalCharges,InternetService=Fiber optic
+624,tenure,InternetService=Fiber optic,Contract=Month-to-month
+625,tenure,TotalCharges,InternetService=Fiber optic
+626,tenure,TotalCharges,InternetService=Fiber optic
+627,tenure,TotalCharges,Contract=Two year
+628,tenure,TotalCharges,InternetService=Fiber optic
+629,tenure,InternetService=No,TotalCharges
+630,tenure,InternetService=Fiber optic,TotalCharges
+631,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+632,tenure,TotalCharges,InternetService=Fiber optic
+633,tenure,TotalCharges,InternetService=Fiber optic
+634,tenure,TotalCharges,InternetService=Fiber optic
+635,InternetService=Fiber optic,Contract=Month-to-month,tenure
+636,tenure,TotalCharges,InternetService=Fiber optic
+637,tenure,TotalCharges,InternetService=Fiber optic
+638,tenure,TotalCharges,Contract=Two year
+639,tenure,InternetService=Fiber optic,Contract=Month-to-month
+640,InternetService=No,tenure,TotalCharges
+641,tenure,TotalCharges,InternetService=Fiber optic
+642,tenure,TotalCharges,Contract=Two year
+643,InternetService=Fiber optic,Contract=Month-to-month,tenure
+644,tenure,InternetService=No,Contract=Two year
+645,InternetService=No,MonthlyCharges,InternetService=Fiber optic
+646,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+647,tenure,InternetService=Fiber optic,Contract=Month-to-month
+648,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+649,tenure,InternetService=Fiber optic,TotalCharges
+650,tenure,InternetService=Fiber optic,MonthlyCharges
+651,tenure,InternetService=Fiber optic,TotalCharges
+652,tenure,TotalCharges,MonthlyCharges
+653,tenure,InternetService=No,Contract=Two year
+654,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+655,InternetService=No,tenure,Contract=Two year
+656,tenure,TotalCharges,InternetService=Fiber optic
+657,tenure,TotalCharges,Contract=Two year
+658,tenure,InternetService=Fiber optic,Contract=Month-to-month
+659,tenure,InternetService=No,TotalCharges
+660,InternetService=No,TotalCharges,tenure
+661,tenure,TotalCharges,Contract=Two year
+662,tenure,InternetService=No,Contract=Two year
+663,tenure,TotalCharges,InternetService=Fiber optic
+664,tenure,TotalCharges,InternetService=Fiber optic
+665,tenure,InternetService=No,TotalCharges
+666,InternetService=Fiber optic,MonthlyCharges,TotalCharges
+667,tenure,TotalCharges,InternetService=Fiber optic
+668,tenure,Contract=Two year,InternetService=Fiber optic
+669,tenure,TotalCharges,InternetService=Fiber optic
+670,tenure,InternetService=Fiber optic,TotalCharges
+671,tenure,InternetService=Fiber optic,Contract=Month-to-month
+672,tenure,InternetService=Fiber optic,MonthlyCharges
+673,tenure,InternetService=Fiber optic,Contract=Month-to-month
+674,InternetService=Fiber optic,tenure,Contract=Month-to-month
+675,tenure,InternetService=No,TotalCharges
+676,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+677,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+678,tenure,InternetService=No,TotalCharges
+679,tenure,InternetService=Fiber optic,Contract=Month-to-month
+680,tenure,InternetService=Fiber optic,TotalCharges
+681,tenure,Contract=Two year,InternetService=Fiber optic
+682,tenure,InternetService=Fiber optic,Contract=Month-to-month
+683,tenure,InternetService=Fiber optic,TotalCharges
+684,tenure,InternetService=Fiber optic,Contract=Month-to-month
+685,tenure,TotalCharges,InternetService=Fiber optic
+686,tenure,InternetService=No,TotalCharges
+687,tenure,InternetService=No,Contract=Two year
+688,tenure,InternetService=No,Contract=Two year
+689,tenure,TotalCharges,Contract=Two year
+690,tenure,TotalCharges,InternetService=Fiber optic
+691,TotalCharges,tenure,InternetService=Fiber optic
+692,tenure,TotalCharges,Contract=Two year
+693,InternetService=No,tenure,Contract=Two year
+694,tenure,Contract=Two year,TotalCharges
+695,tenure,TotalCharges,InternetService=Fiber optic
+696,tenure,TotalCharges,InternetService=Fiber optic
+697,tenure,TotalCharges,Contract=Two year
+698,tenure,InternetService=Fiber optic,TotalCharges
+699,tenure,TotalCharges,InternetService=Fiber optic
+700,InternetService=Fiber optic,tenure,Contract=Month-to-month
+701,InternetService=No,TotalCharges,MonthlyCharges
+702,tenure,InternetService=No,TotalCharges
+703,tenure,TotalCharges,InternetService=Fiber optic
+704,InternetService=Fiber optic,Contract=Month-to-month,TotalCharges
+705,tenure,InternetService=No,TotalCharges
+706,tenure,InternetService=No,TotalCharges
+707,tenure,InternetService=No,TotalCharges
+708,InternetService=No,tenure,TotalCharges
+709,tenure,InternetService=Fiber optic,TotalCharges
+710,tenure,TotalCharges,InternetService=Fiber optic
+711,tenure,TotalCharges,InternetService=Fiber optic
+712,tenure,TotalCharges,InternetService=Fiber optic
+713,tenure,TotalCharges,InternetService=Fiber optic
+714,tenure,TotalCharges,InternetService=Fiber optic
+715,tenure,TotalCharges,InternetService=Fiber optic
+716,InternetService=Fiber optic,tenure,Contract=Month-to-month
+717,tenure,TotalCharges,InternetService=Fiber optic
+718,tenure,TotalCharges,InternetService=Fiber optic
+719,tenure,TotalCharges,InternetService=Fiber optic
+720,tenure,InternetService=Fiber optic,MonthlyCharges
+721,InternetService=No,TotalCharges,MonthlyCharges
+722,tenure,InternetService=No,TotalCharges
+723,tenure,InternetService=Fiber optic,Contract=Month-to-month
+724,tenure,InternetService=Fiber optic,MonthlyCharges
+725,tenure,TotalCharges,InternetService=Fiber optic
+726,tenure,InternetService=Fiber optic,TotalCharges
+727,tenure,TotalCharges,InternetService=Fiber optic
+728,tenure,TotalCharges,InternetService=Fiber optic
+729,tenure,TotalCharges,InternetService=Fiber optic
+730,tenure,TotalCharges,InternetService=Fiber optic
+731,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+732,tenure,TotalCharges,InternetService=Fiber optic
+733,tenure,InternetService=No,TotalCharges
+734,tenure,TotalCharges,InternetService=Fiber optic
+735,InternetService=Fiber optic,tenure,Contract=Month-to-month
+736,tenure,TotalCharges,InternetService=Fiber optic
+737,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+738,tenure,InternetService=No,TotalCharges
+739,tenure,TotalCharges,InternetService=Fiber optic
+740,tenure,InternetService=No,Contract=Two year
+741,tenure,TotalCharges,InternetService=Fiber optic
+742,InternetService=Fiber optic,Contract=Month-to-month,tenure
+743,InternetService=No,tenure,MonthlyCharges
+744,tenure,TotalCharges,InternetService=Fiber optic
+745,tenure,InternetService=No,Contract=Two year
+746,InternetService=Fiber optic,MonthlyCharges,TotalCharges
+747,tenure,TotalCharges,InternetService=Fiber optic
+748,InternetService=No,MonthlyCharges,TotalCharges
+749,tenure,TotalCharges,InternetService=Fiber optic
+750,tenure,TotalCharges,Contract=Two year
+751,tenure,InternetService=Fiber optic,Contract=Month-to-month
+752,tenure,TotalCharges,InternetService=Fiber optic
+753,InternetService=No,TotalCharges,MonthlyCharges
+754,tenure,InternetService=No,Contract=Two year
+755,tenure,TotalCharges,InternetService=Fiber optic
+756,tenure,InternetService=Fiber optic,Contract=Month-to-month
+757,tenure,TotalCharges,InternetService=Fiber optic
+758,tenure,TotalCharges,Contract=Two year
+759,tenure,InternetService=No,TotalCharges
+760,tenure,TotalCharges,InternetService=Fiber optic
+761,tenure,TotalCharges,InternetService=Fiber optic
+762,tenure,InternetService=Fiber optic,Contract=Month-to-month
+763,tenure,TotalCharges,InternetService=Fiber optic
+764,tenure,InternetService=No,TotalCharges
+765,tenure,InternetService=No,TotalCharges
+766,tenure,InternetService=No,TotalCharges
+767,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+768,InternetService=Fiber optic,TotalCharges,Contract=Month-to-month
+769,tenure,Contract=Two year,TotalCharges
+770,tenure,TotalCharges,InternetService=Fiber optic
+771,tenure,InternetService=Fiber optic,TotalCharges
+772,tenure,InternetService=Fiber optic,Contract=Month-to-month
+773,tenure,TotalCharges,InternetService=Fiber optic
+774,tenure,Contract=Two year,InternetService=Fiber optic
+775,tenure,InternetService=Fiber optic,TotalCharges
+776,tenure,InternetService=Fiber optic,Contract=Month-to-month
+777,tenure,InternetService=No,Contract=Two year
+778,tenure,TotalCharges,InternetService=Fiber optic
+779,tenure,InternetService=No,MonthlyCharges
+780,tenure,TotalCharges,Contract=Two year
+781,tenure,InternetService=Fiber optic,TotalCharges
+782,tenure,InternetService=No,Contract=Two year
+783,Contract=Two year,InternetService=Fiber optic,Contract=Month-to-month
+784,tenure,InternetService=No,TotalCharges
+785,tenure,InternetService=Fiber optic,Contract=Month-to-month
+786,tenure,InternetService=Fiber optic,Contract=Month-to-month
+787,tenure,TotalCharges,Contract=Two year
+788,InternetService=Fiber optic,tenure,Contract=Month-to-month
+789,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+790,tenure,InternetService=No,TotalCharges
+791,InternetService=No,tenure,TotalCharges
+792,tenure,TotalCharges,InternetService=Fiber optic
+793,tenure,TotalCharges,InternetService=Fiber optic
+794,tenure,TotalCharges,InternetService=Fiber optic
+795,InternetService=Fiber optic,tenure,Contract=Month-to-month
+796,InternetService=No,TotalCharges,MonthlyCharges
+797,tenure,InternetService=No,Contract=Two year
+798,tenure,TotalCharges,InternetService=Fiber optic
+799,tenure,TotalCharges,MonthlyCharges
+800,tenure,InternetService=No,TotalCharges
+801,tenure,InternetService=Fiber optic,Contract=Month-to-month
+802,tenure,InternetService=Fiber optic,Contract=Month-to-month
+803,InternetService=Fiber optic,TotalCharges,MonthlyCharges
+804,tenure,TotalCharges,InternetService=Fiber optic
+805,tenure,TotalCharges,InternetService=Fiber optic
+806,tenure,InternetService=Fiber optic,TotalCharges
+807,tenure,TotalCharges,Contract=Two year
+808,tenure,TotalCharges,Contract=Two year
+809,tenure,InternetService=Fiber optic,TotalCharges
+810,tenure,TotalCharges,InternetService=Fiber optic
+811,tenure,InternetService=No,TotalCharges
+812,tenure,TotalCharges,Contract=Two year
+813,tenure,TotalCharges,InternetService=Fiber optic
+814,tenure,InternetService=No,TotalCharges
+815,tenure,Contract=Two year,TotalCharges
+816,tenure,TotalCharges,InternetService=Fiber optic
+817,tenure,TotalCharges,InternetService=Fiber optic
+818,tenure,TotalCharges,InternetService=Fiber optic
+819,tenure,InternetService=No,TotalCharges
+820,tenure,InternetService=No,TotalCharges
+821,InternetService=No,tenure,TotalCharges
+822,tenure,TotalCharges,Contract=Two year
+823,tenure,InternetService=Fiber optic,Contract=Month-to-month
+824,InternetService=No,tenure,Contract=Two year
+825,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+826,tenure,Contract=Two year,TotalCharges
+827,tenure,InternetService=Fiber optic,MonthlyCharges
+828,tenure,TotalCharges,Contract=Two year
+829,InternetService=Fiber optic,tenure,TotalCharges
+830,tenure,InternetService=No,TotalCharges
+831,tenure,TotalCharges,InternetService=Fiber optic
+832,tenure,TotalCharges,InternetService=Fiber optic
+833,tenure,InternetService=Fiber optic,Contract=Month-to-month
+834,tenure,TotalCharges,InternetService=Fiber optic
+835,tenure,TotalCharges,InternetService=Fiber optic
+836,tenure,TotalCharges,InternetService=Fiber optic
+837,tenure,TotalCharges,InternetService=Fiber optic
+838,InternetService=Fiber optic,Contract=Month-to-month,TotalCharges
+839,tenure,InternetService=No,Contract=Two year
+840,tenure,TotalCharges,InternetService=Fiber optic
+841,tenure,TotalCharges,Contract=Two year
+842,tenure,TotalCharges,MonthlyCharges
+843,tenure,TotalCharges,Contract=Two year
+844,tenure,TotalCharges,InternetService=Fiber optic
+845,tenure,InternetService=No,TotalCharges
+846,InternetService=No,TotalCharges,Contract=Two year
+847,InternetService=No,MonthlyCharges,TotalCharges
+848,tenure,Contract=Two year,TotalCharges
+849,tenure,InternetService=Fiber optic,Contract=Month-to-month
+850,tenure,InternetService=No,Contract=Two year
+851,tenure,TotalCharges,InternetService=Fiber optic
+852,tenure,TotalCharges,Contract=Two year
+853,tenure,InternetService=Fiber optic,TotalCharges
+854,tenure,InternetService=Fiber optic,TotalCharges
+855,tenure,InternetService=Fiber optic,Contract=Month-to-month
+856,InternetService=Fiber optic,tenure,Contract=Month-to-month
+857,tenure,InternetService=Fiber optic,Contract=Month-to-month
+858,tenure,InternetService=No,TotalCharges
+859,tenure,InternetService=Fiber optic,TotalCharges
+860,Contract=Two year,InternetService=Fiber optic,tenure
+861,tenure,InternetService=Fiber optic,TotalCharges
+862,tenure,TotalCharges,InternetService=Fiber optic
+863,tenure,TotalCharges,InternetService=Fiber optic
+864,tenure,InternetService=Fiber optic,Contract=Month-to-month
+865,tenure,InternetService=No,Contract=Two year
+866,InternetService=No,TotalCharges,MonthlyCharges
+867,InternetService=No,TotalCharges,MonthlyCharges
+868,tenure,InternetService=Fiber optic,Contract=Month-to-month
+869,tenure,TotalCharges,InternetService=Fiber optic
+870,InternetService=Fiber optic,TotalCharges,Contract=Month-to-month
+871,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+872,tenure,Contract=Two year,InternetService=Fiber optic
+873,tenure,InternetService=Fiber optic,Contract=Month-to-month
+874,tenure,TotalCharges,Contract=Two year
+875,InternetService=No,Contract=Two year,TotalCharges
+876,tenure,TotalCharges,InternetService=Fiber optic
+877,InternetService=No,Contract=Two year,MonthlyCharges
+878,InternetService=No,tenure,Contract=Two year
+879,InternetService=No,Contract=Two year,TotalCharges
+880,tenure,InternetService=Fiber optic,TotalCharges
+881,tenure,TotalCharges,Contract=Two year
+882,tenure,TotalCharges,InternetService=Fiber optic
+883,tenure,Contract=Two year,InternetService=Fiber optic
+884,tenure,TotalCharges,InternetService=Fiber optic
+885,tenure,TotalCharges,InternetService=Fiber optic
+886,tenure,TotalCharges,InternetService=Fiber optic
+887,tenure,TotalCharges,InternetService=Fiber optic
+888,tenure,TotalCharges,InternetService=Fiber optic
+889,tenure,TotalCharges,InternetService=Fiber optic
+890,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+891,tenure,TotalCharges,InternetService=Fiber optic
+892,tenure,InternetService=Fiber optic,TotalCharges
+893,tenure,TotalCharges,Contract=Two year
+894,tenure,TotalCharges,InternetService=Fiber optic
+895,tenure,InternetService=No,TotalCharges
+896,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+897,tenure,TotalCharges,Contract=Two year
+898,tenure,TotalCharges,InternetService=Fiber optic
+899,tenure,InternetService=Fiber optic,TotalCharges
+900,tenure,TotalCharges,InternetService=Fiber optic
+901,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+902,tenure,TotalCharges,InternetService=Fiber optic
+903,InternetService=Fiber optic,Contract=Month-to-month,TotalCharges
+904,tenure,TotalCharges,InternetService=Fiber optic
+905,InternetService=Fiber optic,TotalCharges,MonthlyCharges
+906,tenure,TotalCharges,InternetService=Fiber optic
+907,tenure,InternetService=No,TotalCharges
+908,tenure,TotalCharges,Contract=Two year
+909,InternetService=No,Contract=Two year,MonthlyCharges
+910,tenure,TotalCharges,InternetService=Fiber optic
+911,tenure,TotalCharges,Contract=Two year
+912,InternetService=Fiber optic,tenure,Contract=Month-to-month
+913,tenure,InternetService=No,TotalCharges
+914,tenure,InternetService=Fiber optic,Contract=Month-to-month
+915,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+916,tenure,TotalCharges,InternetService=Fiber optic
+917,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+918,tenure,InternetService=No,Contract=Two year
+919,tenure,InternetService=No,TotalCharges
+920,tenure,TotalCharges,InternetService=Fiber optic
+921,InternetService=Fiber optic,tenure,Contract=Month-to-month
+922,tenure,TotalCharges,Contract=Two year
+923,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+924,tenure,TotalCharges,InternetService=Fiber optic
+925,tenure,InternetService=No,TotalCharges
+926,tenure,InternetService=No,MonthlyCharges
+927,tenure,InternetService=Fiber optic,Contract=Month-to-month
+928,tenure,TotalCharges,InternetService=Fiber optic
+929,tenure,TotalCharges,InternetService=Fiber optic
+930,tenure,TotalCharges,InternetService=Fiber optic
+931,InternetService=Fiber optic,Contract=Month-to-month,tenure
+932,InternetService=Fiber optic,tenure,Contract=Month-to-month
+933,tenure,TotalCharges,InternetService=Fiber optic
+934,InternetService=No,TotalCharges,MonthlyCharges
+935,tenure,TotalCharges,InternetService=Fiber optic
+936,tenure,InternetService=Fiber optic,Contract=Month-to-month
+937,tenure,TotalCharges,InternetService=Fiber optic
+938,tenure,TotalCharges,Contract=Two year
+939,tenure,TotalCharges,Contract=Two year
+940,tenure,InternetService=No,TotalCharges
+941,tenure,TotalCharges,InternetService=Fiber optic
+942,tenure,InternetService=No,TotalCharges
+943,tenure,InternetService=Fiber optic,Contract=Month-to-month
+944,tenure,TotalCharges,InternetService=Fiber optic
+945,InternetService=No,tenure,MonthlyCharges
+946,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+947,tenure,TotalCharges,InternetService=Fiber optic
+948,tenure,TotalCharges,MonthlyCharges
+949,tenure,InternetService=No,TotalCharges
+950,tenure,TotalCharges,InternetService=Fiber optic
+951,tenure,InternetService=No,Contract=Two year
+952,tenure,TotalCharges,Contract=Two year
+953,tenure,InternetService=Fiber optic,TotalCharges
+954,tenure,TotalCharges,InternetService=Fiber optic
+955,tenure,TotalCharges,InternetService=Fiber optic
+956,tenure,InternetService=Fiber optic,TotalCharges
+957,tenure,InternetService=Fiber optic,TotalCharges
+958,tenure,InternetService=No,TotalCharges
+959,tenure,TotalCharges,InternetService=Fiber optic
+960,tenure,Contract=Two year,InternetService=Fiber optic
+961,tenure,InternetService=No,TotalCharges
+962,tenure,TotalCharges,Contract=Two year
+963,InternetService=No,TotalCharges,tenure
+964,tenure,InternetService=No,Contract=Two year
+965,tenure,InternetService=No,TotalCharges
+966,tenure,InternetService=Fiber optic,TotalCharges
+967,tenure,Contract=Two year,InternetService=Fiber optic
+968,tenure,TotalCharges,InternetService=Fiber optic
+969,tenure,TotalCharges,InternetService=Fiber optic
+970,tenure,InternetService=Fiber optic,Contract=Month-to-month
+971,tenure,TotalCharges,MonthlyCharges
+972,tenure,TotalCharges,Contract=Two year
+973,tenure,InternetService=Fiber optic,Contract=Month-to-month
+974,tenure,InternetService=No,TotalCharges
+975,tenure,TotalCharges,InternetService=Fiber optic
+976,InternetService=No,tenure,Contract=Two year
+977,Contract=Two year,InternetService=Fiber optic,tenure
+978,tenure,InternetService=Fiber optic,MonthlyCharges
+979,tenure,InternetService=No,Contract=Two year
+980,tenure,InternetService=Fiber optic,Contract=Month-to-month
+981,tenure,InternetService=No,TotalCharges
+982,tenure,InternetService=Fiber optic,Contract=Month-to-month
+983,tenure,InternetService=No,TotalCharges
+984,tenure,TotalCharges,InternetService=Fiber optic
+985,tenure,InternetService=No,MonthlyCharges
+986,tenure,Contract=Two year,TotalCharges
+987,tenure,TotalCharges,MonthlyCharges
+988,tenure,TotalCharges,InternetService=Fiber optic
+989,tenure,InternetService=No,TotalCharges
+990,tenure,InternetService=No,Contract=Two year
+991,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+992,tenure,TotalCharges,InternetService=Fiber optic
+993,tenure,InternetService=Fiber optic,TotalCharges
+994,Contract=Two year,InternetService=Fiber optic,Contract=Month-to-month
+995,tenure,Contract=Two year,TotalCharges
+996,tenure,TotalCharges,Contract=Two year
+997,tenure,InternetService=No,TotalCharges
+998,tenure,TotalCharges,InternetService=Fiber optic
+999,tenure,TotalCharges,InternetService=Fiber optic
+1000,InternetService=Fiber optic,tenure,TotalCharges
+1001,tenure,TotalCharges,InternetService=Fiber optic
+1002,tenure,InternetService=No,Contract=Two year
+1003,tenure,TotalCharges,InternetService=Fiber optic
+1004,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1005,tenure,InternetService=Fiber optic,TotalCharges
+1006,tenure,InternetService=No,Contract=Two year
+1007,tenure,TotalCharges,InternetService=Fiber optic
+1008,tenure,TotalCharges,InternetService=Fiber optic
+1009,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+1010,tenure,TotalCharges,InternetService=Fiber optic
+1011,tenure,InternetService=No,Contract=Two year
+1012,tenure,InternetService=No,TotalCharges
+1013,tenure,TotalCharges,InternetService=Fiber optic
+1014,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1015,InternetService=No,tenure,TotalCharges
+1016,tenure,Contract=Two year,InternetService=Fiber optic
+1017,tenure,TotalCharges,InternetService=Fiber optic
+1018,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+1019,tenure,TotalCharges,MonthlyCharges
+1020,tenure,Contract=Two year,TotalCharges
+1021,tenure,TotalCharges,Contract=Two year
+1022,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1023,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+1024,InternetService=No,tenure,Contract=Two year
+1025,tenure,TotalCharges,InternetService=Fiber optic
+1026,tenure,TotalCharges,Contract=Two year
+1027,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+1028,tenure,TotalCharges,InternetService=Fiber optic
+1029,tenure,TotalCharges,InternetService=Fiber optic
+1030,tenure,InternetService=Fiber optic,MonthlyCharges
+1031,tenure,TotalCharges,InternetService=Fiber optic
+1032,tenure,Contract=Two year,InternetService=Fiber optic
+1033,tenure,TotalCharges,Contract=Two year
+1034,tenure,TotalCharges,InternetService=Fiber optic
+1035,tenure,TotalCharges,InternetService=Fiber optic
+1036,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1037,tenure,InternetService=Fiber optic,TotalCharges
+1038,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1039,tenure,InternetService=No,TotalCharges
+1040,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1041,InternetService=No,TotalCharges,MonthlyCharges
+1042,tenure,InternetService=No,TotalCharges
+1043,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1044,InternetService=No,MonthlyCharges,TotalCharges
+1045,tenure,InternetService=Fiber optic,TotalCharges
+1046,tenure,TotalCharges,InternetService=Fiber optic
+1047,InternetService=No,tenure,Contract=Two year
+1048,InternetService=No,tenure,TotalCharges
+1049,tenure,TotalCharges,InternetService=Fiber optic
+1050,tenure,TotalCharges,Contract=Two year
+1051,tenure,TotalCharges,InternetService=Fiber optic
+1052,tenure,InternetService=No,MonthlyCharges
+1053,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1054,tenure,TotalCharges,InternetService=Fiber optic
+1055,tenure,InternetService=No,TotalCharges
+1056,tenure,InternetService=No,TotalCharges
+1057,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1058,tenure,InternetService=No,TotalCharges
+1059,tenure,Contract=Two year,InternetService=Fiber optic
+1060,tenure,InternetService=Fiber optic,TotalCharges
+1061,tenure,InternetService=Fiber optic,TotalCharges
+1062,tenure,TotalCharges,Contract=Two year
+1063,tenure,InternetService=No,Contract=Two year
+1064,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+1065,InternetService=Fiber optic,tenure,MonthlyCharges
+1066,tenure,InternetService=No,Contract=Two year
+1067,tenure,InternetService=No,MonthlyCharges
+1068,tenure,TotalCharges,InternetService=Fiber optic
+1069,tenure,TotalCharges,InternetService=Fiber optic
+1070,tenure,TotalCharges,InternetService=Fiber optic
+1071,tenure,InternetService=No,TotalCharges
+1072,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1073,tenure,InternetService=No,TotalCharges
+1074,InternetService=No,MonthlyCharges,TotalCharges
+1075,InternetService=No,TotalCharges,MonthlyCharges
+1076,InternetService=No,Contract=Two year,TotalCharges
+1077,tenure,InternetService=Fiber optic,TotalCharges
+1078,tenure,InternetService=Fiber optic,TotalCharges
+1079,tenure,TotalCharges,InternetService=Fiber optic
+1080,tenure,TotalCharges,InternetService=Fiber optic
+1081,tenure,InternetService=No,Contract=Two year
+1082,tenure,TotalCharges,InternetService=Fiber optic
+1083,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1084,InternetService=No,Contract=Two year,TotalCharges
+1085,tenure,TotalCharges,InternetService=Fiber optic
+1086,tenure,TotalCharges,InternetService=Fiber optic
+1087,tenure,TotalCharges,InternetService=Fiber optic
+1088,tenure,TotalCharges,InternetService=Fiber optic
+1089,tenure,Contract=Two year,TotalCharges
+1090,tenure,TotalCharges,MonthlyCharges
+1091,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1092,tenure,InternetService=Fiber optic,TotalCharges
+1093,tenure,TotalCharges,InternetService=Fiber optic
+1094,tenure,TotalCharges,InternetService=Fiber optic
+1095,InternetService=No,TotalCharges,Contract=Two year
+1096,tenure,TotalCharges,InternetService=Fiber optic
+1097,tenure,TotalCharges,InternetService=Fiber optic
+1098,tenure,TotalCharges,Contract=Two year
+1099,tenure,TotalCharges,MonthlyCharges
+1100,InternetService=No,TotalCharges,Contract=Two year
+1101,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+1102,tenure,InternetService=Fiber optic,TotalCharges
+1103,tenure,InternetService=Fiber optic,TotalCharges
+1104,tenure,Contract=Two year,InternetService=Fiber optic
+1105,tenure,TotalCharges,MonthlyCharges
+1106,tenure,TotalCharges,InternetService=Fiber optic
+1107,tenure,TotalCharges,InternetService=Fiber optic
+1108,tenure,InternetService=Fiber optic,TotalCharges
+1109,tenure,TotalCharges,Contract=Two year
+1110,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1111,tenure,TotalCharges,Contract=Two year
+1112,tenure,TotalCharges,InternetService=Fiber optic
+1113,tenure,TotalCharges,InternetService=Fiber optic
+1114,tenure,TotalCharges,InternetService=Fiber optic
+1115,tenure,InternetService=Fiber optic,TotalCharges
+1116,InternetService=No,Contract=Two year,MonthlyCharges
+1117,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1118,InternetService=No,Contract=Two year,MonthlyCharges
+1119,tenure,InternetService=Fiber optic,TotalCharges
+1120,tenure,TotalCharges,InternetService=Fiber optic
+1121,InternetService=No,MonthlyCharges,InternetService=Fiber optic
+1122,tenure,TotalCharges,InternetService=Fiber optic
+1123,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1124,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1125,Contract=Two year,InternetService=Fiber optic,Contract=Month-to-month
+1126,tenure,TotalCharges,InternetService=Fiber optic
+1127,tenure,TotalCharges,InternetService=Fiber optic
+1128,tenure,TotalCharges,InternetService=Fiber optic
+1129,tenure,TotalCharges,InternetService=Fiber optic
+1130,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1131,tenure,TotalCharges,InternetService=Fiber optic
+1132,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1133,tenure,TotalCharges,InternetService=Fiber optic
+1134,tenure,InternetService=No,TotalCharges
+1135,tenure,TotalCharges,MonthlyCharges
+1136,tenure,TotalCharges,Contract=Two year
+1137,tenure,TotalCharges,Contract=Two year
+1138,tenure,InternetService=Fiber optic,TotalCharges
+1139,InternetService=No,Contract=Two year,MonthlyCharges
+1140,tenure,InternetService=No,Contract=Two year
+1141,tenure,TotalCharges,InternetService=Fiber optic
+1142,tenure,InternetService=Fiber optic,TotalCharges
+1143,tenure,TotalCharges,Contract=Two year
+1144,tenure,InternetService=Fiber optic,TotalCharges
+1145,tenure,InternetService=Fiber optic,TotalCharges
+1146,InternetService=No,TotalCharges,MonthlyCharges
+1147,tenure,InternetService=No,TotalCharges
+1148,InternetService=No,tenure,TotalCharges
+1149,tenure,TotalCharges,InternetService=Fiber optic
+1150,tenure,TotalCharges,InternetService=Fiber optic
+1151,tenure,TotalCharges,InternetService=Fiber optic
+1152,tenure,InternetService=No,TotalCharges
+1153,tenure,InternetService=No,Contract=Two year
+1154,tenure,TotalCharges,InternetService=Fiber optic
+1155,tenure,Contract=Two year,InternetService=Fiber optic
+1156,tenure,TotalCharges,InternetService=Fiber optic
+1157,tenure,TotalCharges,Contract=Two year
+1158,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1159,tenure,TotalCharges,InternetService=Fiber optic
+1160,tenure,InternetService=No,Contract=Two year
+1161,tenure,TotalCharges,InternetService=Fiber optic
+1162,tenure,InternetService=Fiber optic,TotalCharges
+1163,tenure,InternetService=Fiber optic,TotalCharges
+1164,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1165,tenure,TotalCharges,InternetService=Fiber optic
+1166,tenure,TotalCharges,InternetService=Fiber optic
+1167,InternetService=No,tenure,MonthlyCharges
+1168,tenure,TotalCharges,InternetService=Fiber optic
+1169,tenure,TotalCharges,InternetService=Fiber optic
+1170,tenure,InternetService=Fiber optic,MonthlyCharges
+1171,tenure,TotalCharges,InternetService=Fiber optic
+1172,tenure,TotalCharges,InternetService=Fiber optic
+1173,tenure,InternetService=No,TotalCharges
+1174,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+1175,tenure,InternetService=Fiber optic,TotalCharges
+1176,tenure,TotalCharges,InternetService=Fiber optic
+1177,tenure,TotalCharges,InternetService=Fiber optic
+1178,tenure,TotalCharges,InternetService=Fiber optic
+1179,tenure,TotalCharges,InternetService=Fiber optic
+1180,tenure,InternetService=No,TotalCharges
+1181,InternetService=No,tenure,MonthlyCharges
+1182,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1183,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1184,tenure,TotalCharges,InternetService=Fiber optic
+1185,tenure,InternetService=Fiber optic,TotalCharges
+1186,tenure,TotalCharges,InternetService=Fiber optic
+1187,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1188,tenure,InternetService=No,Contract=Two year
+1189,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+1190,tenure,InternetService=Fiber optic,MonthlyCharges
+1191,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1192,tenure,TotalCharges,InternetService=Fiber optic
+1193,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1194,tenure,TotalCharges,InternetService=Fiber optic
+1195,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1196,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1197,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1198,tenure,InternetService=No,TotalCharges
+1199,InternetService=No,tenure,Contract=Two year
+1200,tenure,InternetService=Fiber optic,MonthlyCharges
+1201,tenure,Contract=Two year,InternetService=Fiber optic
+1202,tenure,TotalCharges,InternetService=Fiber optic
+1203,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1204,tenure,TotalCharges,InternetService=Fiber optic
+1205,tenure,TotalCharges,Contract=Two year
+1206,tenure,TotalCharges,InternetService=Fiber optic
+1207,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1208,tenure,InternetService=Fiber optic,TotalCharges
+1209,tenure,InternetService=No,Contract=Two year
+1210,tenure,InternetService=Fiber optic,TotalCharges
+1211,tenure,Contract=Two year,InternetService=Fiber optic
+1212,tenure,TotalCharges,InternetService=Fiber optic
+1213,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1214,tenure,TotalCharges,InternetService=Fiber optic
+1215,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1216,tenure,Contract=Two year,InternetService=Fiber optic
+1217,tenure,InternetService=No,Contract=Two year
+1218,tenure,TotalCharges,InternetService=Fiber optic
+1219,tenure,InternetService=No,Contract=Two year
+1220,tenure,TotalCharges,InternetService=Fiber optic
+1221,tenure,TotalCharges,InternetService=Fiber optic
+1222,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1223,tenure,TotalCharges,InternetService=Fiber optic
+1224,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+1225,tenure,TotalCharges,InternetService=Fiber optic
+1226,tenure,TotalCharges,Contract=Two year
+1227,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1228,tenure,InternetService=No,TotalCharges
+1229,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1230,tenure,TotalCharges,InternetService=Fiber optic
+1231,tenure,TotalCharges,InternetService=Fiber optic
+1232,tenure,InternetService=No,TotalCharges
+1233,tenure,TotalCharges,InternetService=Fiber optic
+1234,tenure,InternetService=No,TotalCharges
+1235,tenure,TotalCharges,InternetService=Fiber optic
+1236,InternetService=No,TotalCharges,MonthlyCharges
+1237,tenure,TotalCharges,InternetService=Fiber optic
+1238,tenure,TotalCharges,InternetService=Fiber optic
+1239,tenure,TotalCharges,InternetService=Fiber optic
+1240,Contract=Two year,tenure,InternetService=Fiber optic
+1241,tenure,TotalCharges,InternetService=Fiber optic
+1242,tenure,TotalCharges,InternetService=Fiber optic
+1243,tenure,TotalCharges,InternetService=Fiber optic
+1244,tenure,TotalCharges,InternetService=Fiber optic
+1245,tenure,InternetService=Fiber optic,TotalCharges
+1246,tenure,InternetService=No,Contract=Two year
+1247,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1248,tenure,Contract=Two year,InternetService=Fiber optic
+1249,tenure,TotalCharges,Contract=Two year
+1250,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1251,tenure,TotalCharges,InternetService=Fiber optic
+1252,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1253,InternetService=No,tenure,TotalCharges
+1254,tenure,TotalCharges,InternetService=Fiber optic
+1255,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1256,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+1257,tenure,TotalCharges,InternetService=Fiber optic
+1258,tenure,InternetService=No,TotalCharges
+1259,tenure,InternetService=No,Contract=Two year
+1260,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1261,tenure,TotalCharges,InternetService=Fiber optic
+1262,tenure,InternetService=No,TotalCharges
+1263,tenure,TotalCharges,InternetService=Fiber optic
+1264,InternetService=No,MonthlyCharges,TotalCharges
+1265,tenure,InternetService=Fiber optic,TotalCharges
+1266,InternetService=Fiber optic,tenure,TotalCharges
+1267,tenure,InternetService=Fiber optic,TotalCharges
+1268,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1269,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1270,tenure,TotalCharges,InternetService=Fiber optic
+1271,InternetService=Fiber optic,tenure,TotalCharges
+1272,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+1273,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1274,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1275,tenure,InternetService=No,TotalCharges
+1276,tenure,TotalCharges,Contract=Two year
+1277,InternetService=Fiber optic,Contract=Month-to-month,TotalCharges
+1278,InternetService=No,Contract=Two year,MonthlyCharges
+1279,tenure,TotalCharges,InternetService=Fiber optic
+1280,tenure,TotalCharges,InternetService=Fiber optic
+1281,tenure,TotalCharges,InternetService=Fiber optic
+1282,tenure,TotalCharges,Contract=Two year
+1283,tenure,InternetService=Fiber optic,TotalCharges
+1284,tenure,TotalCharges,Contract=Two year
+1285,tenure,TotalCharges,InternetService=Fiber optic
+1286,InternetService=No,TotalCharges,MonthlyCharges
+1287,tenure,InternetService=No,TotalCharges
+1288,tenure,TotalCharges,InternetService=Fiber optic
+1289,tenure,TotalCharges,InternetService=Fiber optic
+1290,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1291,InternetService=No,tenure,Contract=Two year
+1292,tenure,InternetService=No,Contract=Two year
+1293,tenure,TotalCharges,InternetService=Fiber optic
+1294,tenure,TotalCharges,InternetService=Fiber optic
+1295,tenure,TotalCharges,InternetService=Fiber optic
+1296,InternetService=Fiber optic,tenure,TotalCharges
+1297,tenure,TotalCharges,Contract=Two year
+1298,tenure,TotalCharges,Contract=Two year
+1299,InternetService=Fiber optic,tenure,MonthlyCharges
+1300,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1301,tenure,TotalCharges,InternetService=Fiber optic
+1302,tenure,TotalCharges,InternetService=Fiber optic
+1303,InternetService=No,tenure,Contract=Two year
+1304,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1305,tenure,TotalCharges,InternetService=Fiber optic
+1306,tenure,InternetService=No,TotalCharges
+1307,InternetService=No,tenure,TotalCharges
+1308,tenure,TotalCharges,InternetService=Fiber optic
+1309,tenure,InternetService=Fiber optic,TotalCharges
+1310,tenure,TotalCharges,InternetService=Fiber optic
+1311,tenure,InternetService=Fiber optic,TotalCharges
+1312,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1313,tenure,TotalCharges,Contract=Two year
+1314,tenure,TotalCharges,InternetService=Fiber optic
+1315,tenure,Contract=Two year,InternetService=Fiber optic
+1316,tenure,TotalCharges,InternetService=Fiber optic
+1317,tenure,TotalCharges,InternetService=Fiber optic
+1318,tenure,TotalCharges,InternetService=Fiber optic
+1319,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1320,InternetService=No,Contract=Two year,TotalCharges
+1321,tenure,InternetService=No,Contract=Two year
+1322,InternetService=Fiber optic,Contract=Month-to-month,Contract=Two year
+1323,tenure,TotalCharges,InternetService=Fiber optic
+1324,tenure,TotalCharges,InternetService=Fiber optic
+1325,tenure,Contract=Two year,InternetService=Fiber optic
+1326,tenure,TotalCharges,InternetService=Fiber optic
+1327,InternetService=Fiber optic,Contract=Month-to-month,tenure
+1328,InternetService=Fiber optic,Contract=Month-to-month,MonthlyCharges
+1329,tenure,TotalCharges,Contract=Two year
+1330,tenure,TotalCharges,InternetService=Fiber optic
+1331,tenure,TotalCharges,InternetService=Fiber optic
+1332,InternetService=No,tenure,TotalCharges
+1333,tenure,TotalCharges,InternetService=Fiber optic
+1334,tenure,TotalCharges,InternetService=Fiber optic
+1335,tenure,TotalCharges,InternetService=Fiber optic
+1336,InternetService=Fiber optic,MonthlyCharges,Contract=Month-to-month
+1337,tenure,TotalCharges,InternetService=Fiber optic
+1338,tenure,InternetService=Fiber optic,TotalCharges
+1339,tenure,TotalCharges,Contract=Two year
+1340,tenure,TotalCharges,MonthlyCharges
+1341,tenure,InternetService=Fiber optic,TotalCharges
+1342,tenure,TotalCharges,InternetService=Fiber optic
+1343,tenure,TotalCharges,InternetService=Fiber optic
+1344,tenure,InternetService=No,Contract=Two year
+1345,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1346,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1347,tenure,InternetService=No,Contract=Two year
+1348,tenure,TotalCharges,InternetService=Fiber optic
+1349,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1350,tenure,TotalCharges,InternetService=Fiber optic
+1351,tenure,TotalCharges,InternetService=Fiber optic
+1352,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1353,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1354,InternetService=Fiber optic,tenure,Contract=Month-to-month
+1355,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1356,tenure,InternetService=Fiber optic,MonthlyCharges
+1357,tenure,TotalCharges,Contract=Two year
+1358,tenure,TotalCharges,InternetService=Fiber optic
+1359,InternetService=No,tenure,TotalCharges
+1360,tenure,TotalCharges,Contract=Two year
+1361,tenure,InternetService=No,TotalCharges
+1362,tenure,TotalCharges,InternetService=Fiber optic
+1363,tenure,InternetService=No,TotalCharges
+1364,tenure,TotalCharges,Contract=Two year
+1365,tenure,TotalCharges,InternetService=Fiber optic
+1366,tenure,TotalCharges,Contract=Two year
+1367,tenure,InternetService=Fiber optic,TotalCharges
+1368,tenure,TotalCharges,InternetService=Fiber optic
+1369,tenure,InternetService=No,TotalCharges
+1370,tenure,InternetService=No,Contract=Two year
+1371,InternetService=No,tenure,TotalCharges
+1372,tenure,TotalCharges,InternetService=Fiber optic
+1373,InternetService=No,tenure,TotalCharges
+1374,tenure,Contract=Two year,InternetService=Fiber optic
+1375,tenure,InternetService=Fiber optic,TotalCharges
+1376,tenure,TotalCharges,InternetService=Fiber optic
+1377,tenure,InternetService=Fiber optic,TotalCharges
+1378,tenure,TotalCharges,InternetService=Fiber optic
+1379,tenure,Contract=Two year,InternetService=Fiber optic
+1380,tenure,TotalCharges,InternetService=Fiber optic
+1381,tenure,TotalCharges,InternetService=Fiber optic
+1382,tenure,Contract=Two year,InternetService=Fiber optic
+1383,tenure,InternetService=Fiber optic,TotalCharges
+1384,tenure,InternetService=Fiber optic,TotalCharges
+1385,InternetService=No,tenure,MonthlyCharges
+1386,InternetService=No,MonthlyCharges,TotalCharges
+1387,tenure,TotalCharges,InternetService=Fiber optic
+1388,tenure,TotalCharges,InternetService=Fiber optic
+1389,tenure,TotalCharges,InternetService=Fiber optic
+1390,tenure,TotalCharges,Contract=Two year
+1391,tenure,Contract=Two year,InternetService=Fiber optic
+1392,tenure,TotalCharges,InternetService=Fiber optic
+1393,InternetService=No,TotalCharges,MonthlyCharges
+1394,InternetService=Fiber optic,Contract=Month-to-month,PhoneService=Yes
+1395,tenure,TotalCharges,InternetService=Fiber optic
+1396,tenure,InternetService=No,Contract=Two year
+1397,InternetService=No,tenure,TotalCharges
+1398,tenure,TotalCharges,InternetService=Fiber optic
+1399,tenure,InternetService=No,Contract=Two year
+1400,tenure,InternetService=Fiber optic,Contract=Month-to-month
+1401,tenure,InternetService=No,TotalCharges
+1402,tenure,TotalCharges,InternetService=Fiber optic
+1403,InternetService=Fiber optic,tenure,TotalCharges
+1404,tenure,InternetService=No,TotalCharges
+1405,Contract=Two year,InternetService=Fiber optic,Contract=Month-to-month
+1406,InternetService=No,tenure,Contract=Two year
